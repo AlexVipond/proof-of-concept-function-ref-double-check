@@ -11,6 +11,8 @@
     "vite": "^2.2.3"
   },
   "dependencies": {
+    "@baleada/vue-features": "^0.8.1",
+    "portal-vue": "^3.0.0-alpha.0",
     "vue": "^3.0.11"
   }
 }
